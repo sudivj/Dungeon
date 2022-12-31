@@ -25,6 +25,8 @@ You will be needing LOVE2D to run this game. [Download the luancher](https://lov
 Download the repository and run the code below in the respective game folder.
 
 `sh run.sh`
+or
+`bash run.sh`
 
 ## Controls
 Move - WASD or Arrow keys
