@@ -8,7 +8,7 @@
 
 ## Plot
 
-You came to explore a dungeon in the heart of a big jungle. As you entered the dungeon, the stone gates behind you closed, you trapped. Now you are been attacked by smiles. You are only equipped with a revolver and you have three lives. What would you do?
+You came to explore a dungeon in the heart of a big jungle. As you entered the dungeon, the stone gates behind you closed, you are trapped. Now you are been attacked by slimes. You are only equipped with a revolver and three lives. What would you do?
 
 ## About
 
